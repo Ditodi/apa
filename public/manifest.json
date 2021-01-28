@@ -1,0 +1,14 @@
+{
+    "short_name": "AMI 2021",
+    "name": "Aku Masuk ITB 2021",
+    "icons": [
+      {
+        "src": "favicon.ico",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "./index.html",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
